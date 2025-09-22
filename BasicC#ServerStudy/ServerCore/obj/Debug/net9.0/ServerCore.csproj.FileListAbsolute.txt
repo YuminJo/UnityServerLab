@@ -1,0 +1,14 @@
+C:\Users\yumin.jo\source\repos\Server\ServerCore\bin\Debug\net9.0\ServerCore.exe
+C:\Users\yumin.jo\source\repos\Server\ServerCore\bin\Debug\net9.0\ServerCore.deps.json
+C:\Users\yumin.jo\source\repos\Server\ServerCore\bin\Debug\net9.0\ServerCore.runtimeconfig.json
+C:\Users\yumin.jo\source\repos\Server\ServerCore\bin\Debug\net9.0\ServerCore.dll
+C:\Users\yumin.jo\source\repos\Server\ServerCore\bin\Debug\net9.0\ServerCore.pdb
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ServerCore.AssemblyInfo.cs
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ServerCore.dll
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\refint\ServerCore.dll
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ServerCore.pdb
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ServerCore.genruntimeconfig.cache
+C:\Users\yumin.jo\source\repos\Server\ServerCore\obj\Debug\net9.0\ref\ServerCore.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yumin.jo\\source\\repos\\Server\\ServerCore\\ServerCore.csproj": {}
+    "C:\\Users\\zkzkt\\UnityServerLab\\BasicC#ServerStudy\\ServerCore\\ServerCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yumin.jo\\source\\repos\\Server\\ServerCore\\ServerCore.csproj": {
+    "C:\\Users\\zkzkt\\UnityServerLab\\BasicC#ServerStudy\\ServerCore\\ServerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yumin.jo\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
+        "projectUniqueName": "C:\\Users\\zkzkt\\UnityServerLab\\BasicC#ServerStudy\\ServerCore\\ServerCore.csproj",
         "projectName": "ServerCore",
-        "projectPath": "C:\\Users\\yumin.jo\\source\\repos\\Server\\ServerCore\\ServerCore.csproj",
-        "packagesPath": "C:\\Users\\yumin.jo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yumin.jo\\source\\repos\\Server\\ServerCore\\obj\\",
+        "projectPath": "C:\\Users\\zkzkt\\UnityServerLab\\BasicC#ServerStudy\\ServerCore\\ServerCore.csproj",
+        "packagesPath": "C:\\Users\\zkzkt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zkzkt\\UnityServerLab\\BasicC#ServerStudy\\ServerCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yumin.jo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zkzkt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
